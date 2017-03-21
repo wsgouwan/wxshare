@@ -1,0 +1,15 @@
+{
+  "name": "weixin-share2",
+  "version": "1.0.0",
+  "description": "codoon wxShare",
+  "main": "wxShare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.in.codoon.com:fxd-lei-page/weixin-share2.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
