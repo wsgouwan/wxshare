@@ -2,7 +2,7 @@
 
 ``` bash
 1. 
-    import wxShare from './path/wxShare';
+    import wxShare from './path/index';
     wxShare.config({
         title: '微信测试',
         desc: '这是一个微信测试',
@@ -11,7 +11,7 @@
      })
      
 2.  
-     <script src ='./path/wxShare.js'>
+     <script src ='./path/index.js'>
      <script>
         returnExports.config({
             title: '微信测试',

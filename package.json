@@ -1,15 +1,19 @@
 {
   "name": "weixin-share2",
   "version": "1.0.0",
-  "description": "codoon wxShare",
+  "description": "``` bash 1.      import wxShare from './path/wxShare';     wxShare.config({         title: '微信测试',         desc: '这是一个微信测试',         link: 'http://192.168.10.48:9000/share.html',         imgUrl: 'http://activity-codoon.b0.upaiyun.com/beetle/upload/share.jpg'      })",
   "main": "wxShare.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.in.codoon.com:fxd-lei-page/weixin-share2.git"
+    "url": "git+https://github.com/wsgouwan/wxshare.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsgouwan/wxshare/issues"
+  },
+  "homepage": "https://github.com/wsgouwan/wxshare#readme"
 }
